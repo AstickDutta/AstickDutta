@@ -25,5 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astickdutta&" alt="astickdutta" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 📊 Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/astickdutta19?theme=dark)
