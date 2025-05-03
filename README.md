@@ -23,6 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astickdutta&show_icons=true&locale=en&layout=compact" alt="astickdutta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astickdutta&show_icons=true&locale=en" alt="astickdutta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astickdutta&" alt="astickdutta" /></p>
 
 
 # 📊 Leetcode Stats:
