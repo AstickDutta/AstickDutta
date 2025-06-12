@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django Framework**
 
-- 💬 Ask me about **MongoDB, Express.js, React.js, Nodejs, JavaScript, Python. TypeScript**
+- 💬 Ask me about **Python, JavaSript, Django, Flask, FastAPI, Nodejs, React.js, MongoDB, PostgreSQL, MySQL, AWS, Git, Github**
 
 - 📫 How to reach me **astickdutta19@gmail.com**
 
